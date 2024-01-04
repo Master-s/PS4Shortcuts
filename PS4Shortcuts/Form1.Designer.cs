@@ -1075,7 +1075,7 @@ namespace PS4Shortcuts
             this.textBox40.Name = "textBox40";
             this.textBox40.Size = new System.Drawing.Size(495, 22);
             this.textBox40.TabIndex = 52;
-            this.textBox40.Text = "psmodalwebbrowser:load?parental=True&signup=False&url";
+            this.textBox40.Text = "psmodalwebbrowser:load?parental=True&signup=False&url=";
             // 
             // button2app
             // 

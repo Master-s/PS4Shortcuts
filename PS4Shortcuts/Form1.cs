@@ -104,7 +104,7 @@ namespace PS4Shortcuts
                     label43.Text+ ",lastUpdateTime,playableDate,contentSize,installDate,platform,uiCategory,skuId,disableLiveDetail,linkType,"+ label44.Text+"" +
                     ",serviceIdAddCont1,serviceIdAddCont2,serviceIdAddCont3,serviceIdAddCont4,serviceIdAddCont5,serviceIdAddCont6,serviceIdAddCont7,folderType,folderInfo,parentFolderId,positionInFolder,activeDate,entitlementTitleName,hddLocation,externalHddAppStatus,entitlementIdKamaji,mTime,");
                     sw.WriteLine(textBox35.Text + "," + textBox36.Text + "," + textBox37.Text+","+textBox38.Text+ ",2024-01-02 00:00:23.011,0,2,0,1,13,0,1800,5,0,gdi,0,0,0,1,"
-                        + textBox39.Text+",2021-02-13 18:19:29.747,,538996736,2023-12-31 00:04:03.514,0,app,,0,5,"+ textBox40.Text+ ",,,,,,,,0,,000000002,2,,,0,0,,2023-12-31 00:03:57.871,0,0,0,0,0,");
+                        + textBox39.Text+",2021-02-13 18:19:29.747,,538996736,2023-12-31 00:04:03.514,0,app,,0,5,"+ textBox40.Text+ ",,,,,,,,0,,,0,,,0,0,,2023-12-31 00:03:57.871,0,0,0,0,0,");
                     sw.Close();
                     MessageBox.Show("Done");
 
