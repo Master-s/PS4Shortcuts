@@ -1,0 +1,10 @@
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\bin\Debug\PS4Shortcuts.exe.config
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\bin\Debug\PS4Shortcuts.exe
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\bin\Debug\PS4Shortcuts.pdb
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.Form1.resources
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.Properties.Resources.resources
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.exe
+C:\Users\Master\source\repos\PS4Shortcuts\PS4Shortcuts\obj\Debug\PS4Shortcuts.pdb
