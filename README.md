@@ -3,4 +3,6 @@
 It is a tool for creating shortcuts files and adding App.db
 # - tbl_appinfo.csv
 # - tbl_appbrowse_csv
-![PS4Shortcutsy](https://github.com/Master-s/PS4Shortcuts/assets/49209220/13231c33-0bf7-4721-9cdf-8ebcb550257e)
+
+
+![PS4Shortcuts_t](https://github.com/Master-s/PS4Shortcuts/assets/49209220/5360642b-258c-4d2e-a3ba-a9622642fdd1)
